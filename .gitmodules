@@ -1,6 +1,0 @@
-[submodule "vim/bundle/vim-airline"]
-  path = vim/bundle/vim-airline
-  url = git://github.com/bling/vim-airline.git
-[submodule "vim/bundle/vim-fireplace"]
-  path = vim/bundle/vim-fireplace
-  url = git://github.com/t-pope/vim-fireplace.git
